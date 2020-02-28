@@ -1,0 +1,11 @@
+.cirkel{
+	border-radius:100vh;
+	height:100vh;
+	width:100vh;
+	background-color:yellow;
+	margin-left:25vw;
+	margin-right:25vw;
+}
+body{
+	background-color:blue;
+}
