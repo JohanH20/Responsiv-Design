@@ -1,0 +1,19 @@
+.röd{
+	background-color:red;
+}
+.blå{
+	background-color:blue;
+}
+.grön{
+	background-color:green;
+}
+.gul{
+	background-color:yellow;
+}
+h1{
+	text-align:center;
+}
+table{
+	width:100vw;
+	height:100vh;
+}
